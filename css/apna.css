@@ -1,0 +1,30 @@
+p{
+    text-align: center;
+    font-size: 16px;
+    line-height: 50px;
+    color: white;
+    font-weight: bolder;
+    font-style: italic;   
+}
+table{
+border-radius: 20px 40px 50px 80px;
+}
+table td{
+    text-align: center;
+    border-radius: 20px;
+}
+table th{
+    text-align: center;
+    border-radius: 20px;
+} 
+#vinit
+{
+    text-align: right;
+    font-size: 22px;
+    background-color: blueviolet;
+}  
+.ankit
+{
+text-align: center;
+    font-size: 16px;
+}
